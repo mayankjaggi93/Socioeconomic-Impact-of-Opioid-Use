@@ -35,4 +35,4 @@ For instance, the following database contains pertinent entries
 * [Kaggle Database](https://www.kaggle.com/paultimothymooney/pain-pills-in-the-usa#arcos_all_washpost.tsv.gz)
 
 **Details can be found in the final report.
-Repository include data, Python, Tableau files.**
+Repository include Data, Python, Tableau files.**
