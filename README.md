@@ -1,11 +1,11 @@
-# Project 1
+## Introduction
 
-In this project, you should address a question related to the Opioid Epidemic in the spirit of [investigative journalism](https://en.wikipedia.org/wiki/Investigative_journalism).
-The report for this team project should be 4-5 pages.
-The first two pages should be a newspaper-like article, with an introduction, the question you are answering, a brief description of your sources, and your conclusions rooted in empirical evidence.
-The following pages should include an explaination of your methodology and the tools you employed.
-You should commmit your code on a GitHub repository, in a manner that your work can be recreated, but do not commit huge amount of data.
-
+This paper sought to investigate the impact that the opioid crisis has had on different
+populations based on socio-economic factors. In particular, we were interested in how an area’s
+median income and population density (i.e. if an area is more rural vs urban) correlate with
+opioid prescription use. To do so, we used data pulled from the ARCOS opioid database, as
+well as US census data taken within the same timeframe (the year 2010). We found that there
+was not a strong correlation, but we still did find useful data from our investigation.
 
 ## ARCOS Retail Drug Summary Reports
 
@@ -33,5 +33,3 @@ This information also found its way to Kaggle.
 For instance, the following database contains pertinent entries
 
 * [Kaggle Database](https://www.kaggle.com/paultimothymooney/pain-pills-in-the-usa#arcos_all_washpost.tsv.gz)
-
-There are several additional resources on Kaggle on the same topic, broadly speaking.
